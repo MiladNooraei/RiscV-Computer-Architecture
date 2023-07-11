@@ -2,6 +2,8 @@
 # RiscV Semulation
 
 I Used verilog to implement RiscV Architecture
+![RiscV_Data_Path](https://github.com/MiladNooraei/RiscV-Computer-Architecture/assets/108691050/d5547133-3694-4af8-bc2e-bc542b1085cf)
+
 ## Description
 
 This project has following modules : 
